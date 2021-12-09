@@ -12,7 +12,9 @@ class Intoduction { // class is keyword
         System.out.println("Hello world ! by println"); // it will change the line after printing
         System.out.print("Hello world ! by print 1"); // it dosen't change the line after printing
         System.out.print("Hello world ! by print 2"); //
-
+        /**
+         * 
+         */
         // Declaring varialbles --->
         // data-type variableName= value;
 
@@ -48,7 +50,7 @@ class Intoduction { // class is keyword
         // types
         // these are created by user -> String, Array, List etc.
 
-        /*
+        /**
          * TYPE CASTING ->>
          * 
          * Automatic conversion -> Implicit type casting.
